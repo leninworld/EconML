@@ -1,0 +1,1497 @@
+[
+  {
+    "path": ".github/workflows/ci.yml",
+    "oid": "45e9fe43de2e585880543f03fe23176acbebb199",
+    "mode": "100644"
+  },
+  {
+    "path": ".github/workflows/generate_lkg.py",
+    "oid": "2dd3e04ff38790fe599f3e594ba0d9128c07ea62",
+    "mode": "100644"
+  },
+  {
+    "path": ".github/workflows/publish-documentation.yml",
+    "oid": "83406aa0546139438ebbe945c5e1ac8577b4e71e",
+    "mode": "100644"
+  },
+  {
+    "path": ".github/workflows/publish-package.yml",
+    "oid": "9769346423aff654786097b527f6dc011db3d543",
+    "mode": "100644"
+  },
+  {
+    "path": ".gitignore",
+    "oid": "474decf319b4b0c51cc51cd203499c6f810b20fd",
+    "mode": "100644"
+  },
+  {
+    "path": ".pre-commit-config.yaml",
+    "oid": "dac5d4b49ed2981abeab4507dfaa45cb29d8bb90",
+    "mode": "100644"
+  },
+  {
+    "path": "LICENSE",
+    "oid": "f55033a55ba9fe7d7d66d0b6a99f6bf523c83395",
+    "mode": "100644"
+  },
+  {
+    "path": "README.md",
+    "oid": "609e03804b59599a603b0c78af0a783350df7172",
+    "mode": "100644"
+  },
+  {
+    "path": "SECURITY.md",
+    "oid": "869fdfe2b246991a053fab9cfec1bed3ab532ab1",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/Causal-Inference-User-Guide-v4-022520.pdf",
+    "oid": "94a029a6e59c25f071c4ec72d5c4bce8575ebfb6",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/conf.py",
+    "oid": "3bd59d68d4c8e6724b25e2ab044fdb777224401e",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/econml-logo-XL.png",
+    "oid": "76ab59a95f36097c55b4c570b26fd070f351532b",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/econml-logo-icon.png",
+    "oid": "9d3515f47f73beb9cb421f3dcc24204e2645af29",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/econml-logo-inverse-XL.png",
+    "oid": "88f933d4cc2432752904e8b17aff5ce1f09be3fc",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/econml-logo-inverse.png",
+    "oid": "29c23e7e7ddabb03dad052bc29966cc9a7e740dd",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/econml-logo.png",
+    "oid": "925d369e1c24e336978675a5215dc941b1e62a74",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/econml.ico",
+    "oid": "a2bea5ed04d1d48e331d3556370df757daaf8d06",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/index.rst",
+    "oid": "d7bf9f0ce78f00f7f0da27049a1be0784ded7be7",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/map.svg",
+    "oid": "bf5e1990079399f384466285600b5e3f9565e026",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/reference.rst",
+    "oid": "e46a6741437291d379308baed84201449d37a909",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/api.rst",
+    "oid": "37c76e40cf88e6a9c6aa729b57128a768fb6b397",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/causal_intro.rst",
+    "oid": "b563f4891a5ecd7cafbc5f539fdb0d4244263fc9",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/community.rst",
+    "oid": "2302bfd1017f3ecd043f1cbbd965f1c98eef83ea",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/comparison.rst",
+    "oid": "7216ef2351711d3ee5ea97758f74cf30321c0175",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation.rst",
+    "oid": "8b5c02594db4966e48649dcc332df3493959f45b",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation/dml.rst",
+    "oid": "74a19221327a5d5f3e20d796eab2dff30a9395e1",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation/dr.rst",
+    "oid": "a99999a8c3521ece059cf1592de81e5a42ad5a57",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation/dynamic_dml.rst",
+    "oid": "055359b34597ce1e288a8b67849b70eac474d82e",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation/figures/continuous_ortho_forest_doc_example.png",
+    "oid": "0aed0883c89da6c93073af427d75e4d6b50b375e",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation/forest.rst",
+    "oid": "9bc4035e592ea1bba7ed13a76215488b579c26a7",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation/metalearners.rst",
+    "oid": "ddf42acc53f99d27c53ee80d3a13b419c1135913",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation/orthoiv.rst",
+    "oid": "d01ebe93203da351b341274d2491740b8ac8db73",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation/two_sls.rst",
+    "oid": "2a6edd223ef9ddc1c339067c132e2886b92156da",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation_dynamic.rst",
+    "oid": "6e7b47cc0fd72258cc88bfee9be4b2cd3d17e63d",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/estimation_iv.rst",
+    "oid": "03f4368619f28d0e37e439a6c15a0f9d074a7eea",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/faq.rst",
+    "oid": "c1755f4e8aabcdcbef28b4142cc3d12df3ace1a1",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/federated_learning.rst",
+    "oid": "035c2d81eebd491ac43d119d7dba2a725ae071a0",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/flowchart.rst",
+    "oid": "d2f7e456155a7806212e53a74ba72cb4045806d1",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/img/Attribution.png",
+    "oid": "39d97502f684c622ed065e954c63de30ead84dbf",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/img/Recommendation.png",
+    "oid": "e0b3413de63198c5106c93be15ae2c4a2fe11bad",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/img/Segmentation.png",
+    "oid": "fafe81acf0c96b9550b696d606b0ff7cb61a9f78",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/img/imgFamiliar.png",
+    "oid": "b22b13e72a160131c8480665a0d168d2784c051c",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/img/imgFlexible.png",
+    "oid": "58af38227d139f7c25734fb6837d96f5fb0703ba",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/img/imgUnified.png",
+    "oid": "00b2e75415694b597713465e919efdebc366fc93",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/img/pywhy-logo.png",
+    "oid": "86e9359032a3620b17bf87ec69291f50da52910d",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/inference.rst",
+    "oid": "4c597a4172fdbcae09f938cd19508e9b3c1d9141",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/interpretability.rst",
+    "oid": "5aad3077939256d1f11f0c279163bc2f68f84493",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/model_selection.rst",
+    "oid": "17f4d75e1bf5d564a32003ac29662ab6a28a3767",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/motivation.rst",
+    "oid": "9bc532fb023415b651c49c1987be84650e84573b",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/overview.rst",
+    "oid": "13780334210811778bb8452f6126170257ba7780",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/references.rst",
+    "oid": "c1f135af0ac88aa485e3a088aec121d60a8988de",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/spec.rst",
+    "oid": "2afd6a93d6207ca9ce6268e0107463d5ef2eb595",
+    "mode": "100644"
+  },
+  {
+    "path": "doc/spec/validation.rst",
+    "oid": "859c2e9b4534001501324915761352d89e7da4ca",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/__init__.py",
+    "oid": "99e8c406062822d9548f6d9f2ffe33b8c71ad8a7",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/_cate_estimator.py",
+    "oid": "d738b395217ac499ea0c745414cc33bb56fa618f",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/_ensemble/__init__.py",
+    "oid": "5ea69417b79e1292b53c134d623924d88b333927",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/_ensemble/_ensemble.py",
+    "oid": "139d46c6c2769926c802bc7ae56dd586b6d2804c",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/_ensemble/_utilities.py",
+    "oid": "90c5057c0c8f72c54eb56de5c714e74528fce283",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/_lazy.py",
+    "oid": "cf1df784e477c1e21a9c1ba80e9f1bfd94f38108",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/_ortho_learner.py",
+    "oid": "e27b47a67186cafea3afa044a869a88fd95b10c1",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/_shap.py",
+    "oid": "2c84e6f021f4f2916622af23e0572d059dcfa295",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/_sklearn_compat.py",
+    "oid": "3644cadcabeb1692116ca18ce6904d007f3238e5",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/_tree_exporter.py",
+    "oid": "34737f3dd1621783e306f0dde5813b46f859e9c2",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/_version.py",
+    "oid": "4d83fa688da91da75da34ad5372bcd38d2453c90",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/automated_ml/__init__.py",
+    "oid": "23b2162cd86255e9b476ab7cd312c7af0f280196",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/automated_ml/_automated_ml.py",
+    "oid": "556420962556e4e2874af919876f1c9f523fa98b",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/cate_interpreter/__init__.py",
+    "oid": "390c29a83ba823299eae0d3e4df8cfa1ae4c060c",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/cate_interpreter/_interpreters.py",
+    "oid": "5806979a2d7eca821af40dd4c42acddd1ce599e8",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/__init__.py",
+    "oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/color-edits.sty",
+    "oid": "3faf773c7ee75c893577d440b5121a4d8436d3a4",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/data_doc.bib",
+    "oid": "b59d3c24cca686039d60824b43e008b77ec4558a",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/data_doc.tex",
+    "oid": "e61084aea7c7a612fb74353978b7c8500f09b820",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/dgps.py",
+    "oid": "6ef89b012a3d1441be4b4e37389b9a45a49dd351",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/dynamic_panel_dgp.py",
+    "oid": "e14429d985c7de68328b10e17acb6c709e437d81",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/ihdp/example.csv",
+    "oid": "0495044a7f822cad89160e39a9f7dab067445afa",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/ihdp/example_full.csv",
+    "oid": "b2ddeaf19783484d1a36f492f2af232566c36d1e",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/ihdp/sim.csv",
+    "oid": "0abbf9a3bbef653f1b5f4622d00d55a6a4265667",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/cov_new.jbl",
+    "oid": "8d0bb38d911ff888185cb3a988dc370b93442e65",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/gm_0.jbl",
+    "oid": "e4e262d9d950fe9c4bbf5c7060b615062a558f93",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/gm_1.jbl",
+    "oid": "02c721f9040763c3d12402efcb444c054f63a89c",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/gm_2.jbl",
+    "oid": "91737d308e5459eb8a96f1e818e080f4dc631403",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/gm_3.jbl",
+    "oid": "4c3ce9289069d56c2cb71d1601323b7fe39df462",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/gm_4.jbl",
+    "oid": "77af014faee8d2036d9892ad9d4e21f1dad3e8e5",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/gm_5.jbl",
+    "oid": "68279106bdb313e7170dae9b609a8bb65daecd44",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/gm_6.jbl",
+    "oid": "fbdfd1f70169bb966dbef2f3c10dfbb88606f956",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_neg_0.jbl",
+    "oid": "21e84be89efa9f7d19a00c07f17255034af16e3a",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_neg_1.jbl",
+    "oid": "0ca173d5948fdee2c44793573c2eb30c8f5a7024",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_neg_2.jbl",
+    "oid": "f4f1cc696565109f642e42809d06643f6497d3c9",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_neg_3.jbl",
+    "oid": "a13e9d795917632b86a49be4a6f015a19a15506c",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_neg_4.jbl",
+    "oid": "e159c5665e42aecbdaa5ad3c7c278bdbeba2cab1",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_neg_5.jbl",
+    "oid": "9ad1efe439a1fc83c66840686083b243668acafe",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_pos_0.jbl",
+    "oid": "0ee019744fcee39724aaca8fac6e9c55b7165bcf",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_pos_1.jbl",
+    "oid": "3e1fa82367247d794c5f2f3ec899315494630f5e",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_pos_2.jbl",
+    "oid": "e94f429f7a92d11ecc99b49768e2663165db86b9",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_pos_3.jbl",
+    "oid": "4ff1b40dd2b90da4903f4452caf14d825ef2ff57",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_pos_4.jbl",
+    "oid": "4728440281e2251d55ded4904a0e5f588ee671dc",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_pos_5.jbl",
+    "oid": "67d145e51c619ce8f26716d02fdcdbd0c12b2750",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/lognorm_pos_6.jbl",
+    "oid": "ebed90e543979a438e97a2b118b66456876d09c5",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/n_0.jbl",
+    "oid": "0d72cf99bb886a6c2b2027772292513033dee8fc",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/n_1.jbl",
+    "oid": "a1690f6a6437f7c5fb9d07e73f1d4dc00b8a17b3",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/n_2.jbl",
+    "oid": "d9a912dda9ac6a45877843fb379db7d2c9c4bf93",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/n_3.jbl",
+    "oid": "e15e46d307d9a7226344ddace1db181269803137",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/n_4.jbl",
+    "oid": "de5e2691a4d017b6fe3bf8f00aec23d3921fb8bb",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/n_5.jbl",
+    "oid": "e60b88978b95b303f53c8b690784c55a3073a743",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/data/input_dynamicdgp/n_6.jbl",
+    "oid": "e9f7e305d2e0192fb380992ec7765b3de103bf08",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/dml/__init__.py",
+    "oid": "824fce7545afb0456ec3e51999bf91090f71ad6a",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/dml/_rlearner.py",
+    "oid": "f64be2344085eb2b3be9ded1c07028f19b38b073",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/dml/causal_forest.py",
+    "oid": "cbedf323e2042d93785d90875cb08e9fe979d550",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/dml/dml.py",
+    "oid": "7e47e0713e33b4d711aec13c6632c06513d1d4c9",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/dowhy.py",
+    "oid": "b9655592939db830a781ae5aaf1b683c8d717f3f",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/dr/__init__.py",
+    "oid": "c64ad7b067d900bbc0714505c240dfdc374dab20",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/dr/_drlearner.py",
+    "oid": "bed549b2c871d33f4f39db52b3f2628c34338c14",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/federated_learning.py",
+    "oid": "f2227d4ef0cd9fbbda93efc163fe3224e1966397",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/grf/__init__.py",
+    "oid": "a9ccd6833684dfd3fe7e8a0d11235e6d90158c93",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/grf/_base_grf.py",
+    "oid": "1fbe9e3546f955d2c006bebae83b7a28be9f341e",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/grf/_base_grftree.py",
+    "oid": "9635504f5e571a9c7e723466e68b6e5b04cd7ff6",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/grf/_criterion.pxd",
+    "oid": "31cf3cb969e0b8d9c9d670416eeeda6cef170952",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/grf/_criterion.pyx",
+    "oid": "495cd56a2dac0080165c490d223c55f731421bfb",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/grf/_utils.pxd",
+    "oid": "1e4372d3f36ab4669f7292591dca28f8e0bdf746",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/grf/_utils.pyx",
+    "oid": "3fc446941cc008b792f8d8b1aa2ea290b1fce1bb",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/grf/classes.py",
+    "oid": "46d0a22aba690804cf3ea3c4d9966835425babe2",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/inference/__init__.py",
+    "oid": "113ff78ab10751e5cba4bf35194076b4e4879c03",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/inference/_bootstrap.py",
+    "oid": "36089bd63ca124972a52d519b10060fef77103eb",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/inference/_inference.py",
+    "oid": "82fdb19c755265bff8be2c40e0468d598b5dd55c",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/iv/__init__.py",
+    "oid": "9ef5066ac58ef6c9c57ea2132dc8a4fe380c1898",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/iv/dml/__init__.py",
+    "oid": "60ff3769d7bdf5c1935c3010d42e78da1d352c03",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/iv/dml/_dml.py",
+    "oid": "12e690e345164fd29f5ced4acdc98bcef8440d8a",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/iv/dr/__init__.py",
+    "oid": "e0586f2b03988f9f6fa14f2ab59ec81d231b5e7f",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/iv/dr/_dr.py",
+    "oid": "b84a79cc7a4e7e5acf6663ea91c5b3af4ff52b56",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/iv/sieve/__init__.py",
+    "oid": "cb217b7f99dd7efea4fdfab8f30cdf6794fb688b",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/iv/sieve/_tsls.py",
+    "oid": "0439d4b39512aaa3c707e2f9f19ef47516403b78",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/metalearners/__init__.py",
+    "oid": "a12392242c461c391852aca27dc384c4a071efa6",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/metalearners/_metalearners.py",
+    "oid": "dc6d053380c29e78bb4be3e35742b2c9ed5bd6f2",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/orf/__init__.py",
+    "oid": "21e043015cb3aab34b950d5bbd3c009f0b84d25e",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/orf/_causal_tree.py",
+    "oid": "97fdb694327225f161139e678d6525a4366a96bc",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/orf/_ortho_forest.py",
+    "oid": "15453754108ebe9c9ae4c627f812c533e15298da",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/panel/__init__.py",
+    "oid": "3f3688a8bb96e6a5643657e4425c9e6bb426ccbb",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/panel/dml/__init__.py",
+    "oid": "8f83c8eb1d76f4c762134e415607481eed24e568",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/panel/dml/_dml.py",
+    "oid": "93a02686b093725652f8786f5aa77336d64c4234",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/panel/utilities.py",
+    "oid": "5d12022856d1d1112838f01ae6adfb939a71e575",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/policy/__init__.py",
+    "oid": "512526f67c29ffab724327c1151ec64ad9551291",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/policy/_base.py",
+    "oid": "844cff2545c33a08aa6c7c1a508a806d286e1618",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/policy/_drlearner.py",
+    "oid": "d8a3cc3d37c82ffd0f3465112c762cfb18307840",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/policy/_forest/__init__.py",
+    "oid": "08d88decd3334c8821282ca16c6bd36df81072f0",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/policy/_forest/_criterion.pxd",
+    "oid": "a0dcb68346dff0ddf5ed6f6629bc2b866faf89f5",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/policy/_forest/_criterion.pyx",
+    "oid": "864664d3c26e26677635801269a94f7804cda1da",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/policy/_forest/_forest.py",
+    "oid": "a75883e3e716c8c372a13a706e6201f57bee3a1a",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/policy/_forest/_tree.py",
+    "oid": "46c6f4fa9c0021b8cd13d479ae342cd7a0ec17b6",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/score/__init__.py",
+    "oid": "f817e3afb31bd271d5bedeb9891a55b12225f3c4",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/score/ensemble_cate.py",
+    "oid": "b7776a9ca7be7933588752e10a2441b39c4fd398",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/score/rscorer.py",
+    "oid": "cf04ceb1aeb009cc2ed08641c3b423d3ebc37388",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/sklearn_extensions/__init__.py",
+    "oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/sklearn_extensions/linear_model.py",
+    "oid": "89e50ea8f1d11ef2e446ff8a7aa439b59afd5e20",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/sklearn_extensions/model_selection.py",
+    "oid": "8f86a36622e91e873c75b4186754c05cc1ebe43e",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/solutions/causal_analysis/__init__.py",
+    "oid": "c6049a95d97432c71aba12f659e59f93d98fb6cb",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/solutions/causal_analysis/_causal_analysis.py",
+    "oid": "b674e3cc6ab54937b49dd5c6cdb823a677111c88",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/__init__.py",
+    "oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/_sklearn_compat_helpers.py",
+    "oid": "1e0d612dc69a7bf5cbaca340b50a68873bf1ba47",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/dgp.py",
+    "oid": "286496f7355577521b667e4d1f312d56ac88daeb",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_ate_inference.py",
+    "oid": "f0d9b523a8f343bee078376adc215c385e66d570",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_automated_ml.py",
+    "oid": "27524d0cc8d3c1dda5bdacb7b73d2632075e0a61",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_bootstrap.py",
+    "oid": "2b47b654ac6f1d91ab8189b0da5bf61cdfc34768",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_cate_interpreter.py",
+    "oid": "f2e469573881e2af4e49784c6aa11733804ce699",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_causal_analysis.py",
+    "oid": "8608a28164c62fc7c58dd42116d881dfbbf071fe",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_discrete_outcome.py",
+    "oid": "12a9e7bd73ad97e444c9eb4ff5fab79ee4ac9412",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_dml.py",
+    "oid": "81f9c81ffa8e9e89fd45b3e1613ee65361b79a11",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_dmliv.py",
+    "oid": "de0350d974a20fd642b2af4bab22422baa76f119",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_dominicks.py",
+    "oid": "a26e566612034b6d96e2254ced5561abacbe7e92",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_dowhy.py",
+    "oid": "23121c1c3231279767f94723f8b30fc28b31fff9",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_driv.py",
+    "oid": "20218d448d86ad5f1d66afd0591d430b6c2cb413",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_drlearner.py",
+    "oid": "eaced8d873881bb1d0bef40b7330443c8c83c0e9",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_drtester.py",
+    "oid": "32dd404c0a9859d16e494c71de6664cd4355c141",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_dynamic_dml.py",
+    "oid": "3d862fdb279c89ef33a8f495632f21bc28f630ad",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_federated_learning.py",
+    "oid": "dc2bb8c051e0ddfaf3b1746ed81ebb81ed117f6a",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_grf_cython.py",
+    "oid": "ced0a6e020024fd221af3d36a055d2870a1cefcb",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_grf_python.py",
+    "oid": "3140dad72368015714b2356b66b71e460e3c5689",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_inference.py",
+    "oid": "4d19d2fd141c0ad94efc20d86e1313ebc6b02ef5",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_integration.py",
+    "oid": "ebd689c338695132fb7622765f27e01138796ec0",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_linear_model.py",
+    "oid": "09287672f3d2f23a48122c0480c35400e599aa06",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_metalearners.py",
+    "oid": "8ef82ba83144438eb9780f4983cd50485056d2fc",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_missing_values.py",
+    "oid": "7f964be23488edbcf90f32a780995a829cfef013",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_model_selection.py",
+    "oid": "a08373a407886d8409519c0d7c21566abea84f44",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_montecarlo.py",
+    "oid": "00da85c3e692be673e696c9b800e9ce92ae1d459",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_notebooks.py",
+    "oid": "7895cd0471a1c625f25fbb2dbacdabba298b9354",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_orf.py",
+    "oid": "262f6f0a722afa1f0777fc6d157155310dc7f41c",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_ortho_learner.py",
+    "oid": "ba4c68c00843c633c9bc5fa5ccfd7565bee1d8f1",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_policy_forest.py",
+    "oid": "10810b8d0e3d61731a188198d76e315ed6682889",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_random_state.py",
+    "oid": "2ae5f391241b373d87a94c109607b0c9eb0d870c",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_refit.py",
+    "oid": "4669d8e795f48dac23d6c05db838e6354ba76c62",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_rscorer.py",
+    "oid": "8b39fbe265a9c10f99a8679a2e97a3de917feca2",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_sensitivity_analysis.py",
+    "oid": "bf157dfd9cd9c334e9fe31b7d3136a1dda56c613",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_shap.py",
+    "oid": "df0008d5c55b7b863637842aea39ad77b0b15df7",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_sklearn_compat.py",
+    "oid": "8cd95104bb8b463c55429e0e3d06e6e0c16fccfb",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_sklearn_compat_helpers.py",
+    "oid": "4bb245463bdfd9de1831661bb90e4c78d7275775",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_statsmodels.py",
+    "oid": "64823517f79bf0c835db75954d34b0ff770eeee2",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_treatment_featurization.py",
+    "oid": "7ad7e9772045ae57d985a7dc31c7c95076eef04c",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_tree.py",
+    "oid": "35296ca6ea9d74938a799127b33479b5481b8f12",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_two_stage_least_squares.py",
+    "oid": "3d2cf9e770511f2f5943903a3cbef9f9e6a32397",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/test_utilities.py",
+    "oid": "6c7375dc2c1e4cf41e4d817e58f080a66f9281c3",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tests/utilities.py",
+    "oid": "456477076baafca3895ab631c095855ece476140",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tree/__init__.py",
+    "oid": "457d73bf7304f9489a293ea368d805277847438c",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tree/_criterion.pxd",
+    "oid": "bfe4a55249be997d12294c1e5fc134f4f4db7a86",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tree/_criterion.pyx",
+    "oid": "c4cf04eec6a46e89ecc2a56914ec61ae5fe0f623",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tree/_splitter.pxd",
+    "oid": "0962020d076567f8111448d6610eea0ed7121a78",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tree/_splitter.pyx",
+    "oid": "ea77b06ec33688bc9072e5af649894840b432883",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tree/_tree.pxd",
+    "oid": "7a8b531db4f286e08051d8e64c51fa42b363adf2",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tree/_tree.pyx",
+    "oid": "6dea85ac65720f209b200be51ed3a30511903904",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tree/_tree_classes.py",
+    "oid": "054a5101802fbb7a0bf4b541815d88ccc134cd26",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tree/_utils.pxd",
+    "oid": "5930a019e39035111cd18ac919820f202356fc1f",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/tree/_utils.pyx",
+    "oid": "68c8adf44d249e3d1da2f85fc896c81473757cca",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/utilities.py",
+    "oid": "b3d9b3a5ffc96bbc1cc65bc965d78a4ab7e00ad2",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/validate/__init__.py",
+    "oid": "f49df3a6d6f5179a007174317b404f28f76e3a71",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/validate/drtester.py",
+    "oid": "edfb0347cf8b456c679f41ca6b742b2cc214d4e1",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/validate/results.py",
+    "oid": "1f05a5bbf4ea4fa9cbc4227bf3a0927fa473ca84",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/validate/sensitivity_analysis.py",
+    "oid": "09c24d418bc3dbaba45f1a040d56d51a34d43333",
+    "mode": "100644"
+  },
+  {
+    "path": "econml/validate/utils.py",
+    "oid": "f2f8c07565b427fbbe2adba4b37fb4e26dc9171a",
+    "mode": "100644"
+  },
+  {
+    "path": "images/policy_tree.png",
+    "oid": "d9157c26068c36aa07daea11c405526aeedabbe6",
+    "mode": "100644"
+  },
+  {
+    "path": "lkg-notebook.txt",
+    "oid": "9c7ed72ad8c43b7458e0115282cd7f48f2a69366",
+    "mode": "100644"
+  },
+  {
+    "path": "lkg.txt",
+    "oid": "3052d1af9c10a492dcebad1fbac97045c404feac",
+    "mode": "100644"
+  },
+  {
+    "path": "monte_carlo_tests/monte_carlo_honestforest.py",
+    "oid": "240105dba7b4836f09aeae69a2632c55f3e75af2",
+    "mode": "100644"
+  },
+  {
+    "path": "monte_carlo_tests/monte_carlo_statsmodels.py",
+    "oid": "9c061e3f8d570645cbefd0f8f8bdc54e1594564f",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/AutomatedML/Automated Machine Learning For EconML.ipynb",
+    "oid": "15fa876fbb9f4b675eb323a6b3bdf43c6d215f1c",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/CATE validation.ipynb",
+    "oid": "5ac13bac93eeec639c741e4f5d0296afcb4d4ebc",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Causal Forest and Orthogonal Random Forest Examples.ipynb",
+    "oid": "79f7594cae62b2d069f1e0b3d733bc6b27e66ef8",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Causal Model Selection with the RScorer.ipynb",
+    "oid": "672f7bf93af7d64ea69842059ab5ddc2632e3296",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Choosing First Stage Models.ipynb",
+    "oid": "dcc431a25f44ae180801c61895acfcce428f56c2",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/CustomerScenarios/Case Study - Customer Segmentation at An Online Media Company - EconML + DoWhy.ipynb",
+    "oid": "03771fc010a2691e46ec486cf20751d792f33942",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/CustomerScenarios/Case Study - Customer Segmentation at An Online Media Company.ipynb",
+    "oid": "54b9f72fd93fccc47ea764f081686f0d271cd081",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/CustomerScenarios/Case Study - Long-Term Return-on-Investment via Short-Term Proxies.ipynb",
+    "oid": "7ab5c62f07c677455b0dfe43c3a8c7c56016b5b9",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/CustomerScenarios/Case Study - Multi-investment Attribution at A Software Company - EconML + DoWhy.ipynb",
+    "oid": "b6e86ee572015975ed508596bf874a91ac28e3fd",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/CustomerScenarios/Case Study - Multi-investment Attribution at A Software Company.ipynb",
+    "oid": "2c2aebbe30ceb81c555a371435de14bd49669a4c",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/CustomerScenarios/Case Study - Recommendation AB Testing at An Online Travel Company - EconML + DoWhy.ipynb",
+    "oid": "b21b0a86188efb6aae0d283f4f28353e03d16844",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/CustomerScenarios/Case Study - Recommendation AB Testing at An Online Travel Company.ipynb",
+    "oid": "9ee548c7fd4ff6d76bbe6eb278e762e825c04d13",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/CustomerScenarios/Case Study - Using EconML to evaluate the treatment effect of training program - Lalonde dataset.ipynb",
+    "oid": "dae8358547922a7c34a14db87c848f2d7df7255a",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Double Machine Learning Examples.ipynb",
+    "oid": "f5a7dd460e8afdd2b893f1441b7bc736d7d22d52",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Doubly Robust Learner and Interpretability.ipynb",
+    "oid": "3fa11373ab145341fe9635be8868da314dca8cb4",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Dynamic Double Machine Learning Examples.ipynb",
+    "oid": "a3b8dee91eca92f9d7e3ce668aae605f59b1c5a8",
+    "mode": "100755"
+  },
+  {
+    "path": "notebooks/ForestLearners Basic Example.ipynb",
+    "oid": "75404c5df7421478c074a884e5cb568c60642b66",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Generalized Random Forests.ipynb",
+    "oid": "a2ff620529574dbbc2548599aade970bbc17f307",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Interpretability with SHAP.ipynb",
+    "oid": "d53ddc991fd1cf0b25031fadf8379298e0f78679",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Metalearners Examples.ipynb",
+    "oid": "a5d28af7c927c90cbfc3a6703fb6cee307af506d",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/OrthoIV and DRIV Examples.ipynb",
+    "oid": "4388fe39e12fb3a3d199b5aa253f9fd916796a3f",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Policy Learning with Trees and Forests.ipynb",
+    "oid": "7147a02551cb703be1cba88aaf0250f78a83480c",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Scaling EconML using Ray.ipynb",
+    "oid": "45ed69e353442236bc7752beb9d13513b09a2cc4",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Solutions/Causal Interpretation for Ames Housing Price.ipynb",
+    "oid": "eaf5105294ea29bfc99fe43e12718137171c3b2a",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Solutions/Causal Interpretation for Employee Attrition Dataset.ipynb",
+    "oid": "69273177ab3a4adb5db80a73ff23c77c9a91f22b",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Treatment Featurization Examples.ipynb",
+    "oid": "ab4176721e79120a975639db8336bf58fbac1ab4",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/Weighted Double Machine Learning Examples.ipynb",
+    "oid": "cfe0368590bdb165ce45dda6a20e669137231862",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/images/dr_cate_tree.png",
+    "oid": "89340a1f197f042ef8ea7029006e371fafe3acd7",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/images/dr_policy_tree.png",
+    "oid": "7c545d7f93766baa8b0ed592bb4b7490a6a74bbf",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/images/population_summary.png",
+    "oid": "5861a839eff2c9c287c8d18f4e3e2feb5472acc7",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/images/ray_parellel_cv.png",
+    "oid": "524dafc9e243f9a2fff43e262b782977b2400ffc",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/images/seq_cv.png",
+    "oid": "a5ac977ef808380a50cd72069dad58cda6586d75",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/images/summary.png",
+    "oid": "26ea26ea58e9580f7fca262580f080ddff064fb8",
+    "mode": "100644"
+  },
+  {
+    "path": "notebooks/images/summary_frame.png",
+    "oid": "3914f3506842c07b2784d68b3a43789eceb5e0b4",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/NLSYM_GBM.ipynb",
+    "oid": "40b17bc3cf1f091d1de879a5d665f2dd2ca57a82",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/NLSYM_Linear.ipynb",
+    "oid": "24f53971ad2bb446f13bc4079ff4a519313ccf1d",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/NLSYM_Semi_Synthetic_GBM.ipynb",
+    "oid": "0c1901b3bd832dbf6aac3222bc1bf9c14c38ea0a",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/NLSYM_Semi_Synthetic_Linear.ipynb",
+    "oid": "0bfbd776a0606df5de7228c606634ad270afe228",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/README.md",
+    "oid": "44c84ea5803ba8a7ac9961753ff65792a6764e3a",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/TA_DGP_analysis.ipynb",
+    "oid": "1c963ccde05f6b7277770c42721a2598ea3b7563",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/TA_DGP_analysis_Step_CATE.ipynb",
+    "oid": "7bc9809ecf108a14b94a82fd2c3cbbf89a4999fb",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/coverage_experiment.py",
+    "oid": "c2e12501e1ea937171b718a60ef837cfe406f9e1",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/data/NEW7080.dta",
+    "oid": "156c077a22c138d8efa6a44b39fd12ffb6695793",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/data/card.csv",
+    "oid": "0b0fc5d535e858f49f7e1ed42081cbb2de66befd",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/data/code_bk.txt",
+    "oid": "0c416392f5b1964c9bb9ce02402d661973d0dda9",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/data/readme",
+    "oid": "1685ba9fcfbc92f4205e913c3c98f657b59bf048",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/deep_dml_iv.py",
+    "oid": "3aba4aa6392f233f4432242a5890661ee3d7666b",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/deep_dr_iv.py",
+    "oid": "f3592818308f87fc0e56d51845ab1b9355642da3",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/dml_ate_iv.py",
+    "oid": "036b61ed631879d63369a8a9dd529921d91956ba",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/dml_iv.py",
+    "oid": "7a68b40db1e46224b1fcc80d0739cd07670a1cf1",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/dr_iv.py",
+    "oid": "3aff01c1eada94b9823620485ad36ed5b5b130ab",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/post_processing.ipynb",
+    "oid": "82a78e3b191c78d46e8c0157fafb14d0fe53a851",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/utilities.py",
+    "oid": "09e22fd77cb1dd4e882c0387f8952a8c333c3c14",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dml_iv/xgb_utilities.py",
+    "oid": "ea52e25def2df7073712fc932ff90e7a7998579b",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/README.md",
+    "oid": "dad36c57147e5d687cb0099aceaa8e21d830623b",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/all_coverage.sh",
+    "oid": "244ebcba8cb2449e6cbd7f02771552c92d9986c8",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/coverage_panel.py",
+    "oid": "64f5f8d0d394fae21e77c6bf7ef1e7f4e21123d7",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/coverage_panel_hetero.py",
+    "oid": "ff23a22abd5df3811d64ac19a8fb766194b9c901",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/dynamic_panel_dgp.py",
+    "oid": "24ac240666909671775b204d77dc2686fb64e9df",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/hetero_panel_dynamic_dml.py",
+    "oid": "5756e85b7ef3e1ca5e04f7674b16c63ca1d03816",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/high_dim_state_any_m_panel.ipynb",
+    "oid": "a1ec41e7471f2c58ef63282fc389516bcb553899",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/high_dim_state_any_m_panel_hetero.ipynb",
+    "oid": "fa788ba0cf550e15e868986ae0667f1fbcfd78fd",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/panel_dynamic_dml.py",
+    "oid": "b9229cdf1a5beba23ff08e177e4bf40159a9a940",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/postprocess_panel.ipynb",
+    "oid": "6b8066ca6e5661ecee9144950f2718d147283a41",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/dynamic_dml/postprocess_panel_hetero.ipynb",
+    "oid": "0420bd57012ef8c598e151db11cc60cc7bb37289",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/orthogonal_forests/GRF_treatment_effects.R",
+    "oid": "cc3db3fc5490d723d01c191aafd8f94ad5c80229",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/orthogonal_forests/README.md",
+    "oid": "c24c5f877c0b51fd69e0c0840acd33ccb35e19ca",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/orthogonal_forests/causal_tree.py",
+    "oid": "1df649cb22d1c9878d571a34b5fd1aff0c214e3c",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/orthogonal_forests/comparison_plots.py",
+    "oid": "9fa77c96140cee5cd24809c112fa6378348634e9",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/orthogonal_forests/hetero_dml.py",
+    "oid": "82ad7967bf7783684858466bed09ab9ceb3b4ad8",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/orthogonal_forests/monte_carlo.py",
+    "oid": "659483a2122622dab4893f269614def320ebc45b",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/orthogonal_forests/ortho_forest.py",
+    "oid": "0f1ac9e92e6c764d67687b7b01b0d78bc7fac342",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/orthogonal_forests/residualizer.py",
+    "oid": "46a84b80c44791d1296fb85e094b306a57ee50c8",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/orthogonal_forests/seq_map.sh",
+    "oid": "ca0700e87b28e8ee5add5d2c6012f276504d2785",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/sensitivity_analysis/ovb_dml.ipynb",
+    "oid": "21016628c11411aaa4a818dc81dadfa6ad45e286",
+    "mode": "100644"
+  },
+  {
+    "path": "prototypes/sensitivity_analysis/ovb_dr.ipynb",
+    "oid": "c2f4023498ebe4ca177cc447abeefe40f573cdd8",
+    "mode": "100644"
+  },
+  {
+    "path": "pyproject.toml",
+    "oid": "84e42992c084b61894296ee1a7d2bbf19573cb6b",
+    "mode": "100644"
+  },
+  {
+    "path": "setup.py",
+    "oid": "fc1c206675fb85ec2e3b4b7abfc200520394cc63",
+    "mode": "100644"
+  }
+]

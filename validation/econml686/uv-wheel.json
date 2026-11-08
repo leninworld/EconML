@@ -1,0 +1,10 @@
+{
+  "url": "https://files.pythonhosted.org/packages/5c/43/0688ff5142934238f2812e348f4a24e09b57d48bfb38dd8f850325a0d9de/uv-0.13.6-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "filename": "uv-0.13.6-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "size": 17333810,
+  "digests": {
+    "blake2b_256": "5c430688ff5142934238f2812e348f4a24e09b57d48bfb38dd8f850325a0d9de",
+    "md5": "2e3c3936d9deccce95a2d12d6f75e4c1",
+    "sha256": "22759b8895e1103578de6fb4cd27e94b4399d021023378d29f01333717751fba"
+  }
+}

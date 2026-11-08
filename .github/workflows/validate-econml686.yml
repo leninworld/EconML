@@ -1,0 +1,44 @@
+name: Measure EconML unfitted-estimator baseline prerequisites
+on:
+  push:
+    branches: [validate-econml686-m0-native]
+permissions:
+  contents: read
+concurrency:
+  group: econml686-m0-first
+  cancel-in-progress: false
+jobs:
+  measure:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 55
+    steps:
+      - name: Record the one global origin
+        run: echo "M0_STARTED=$(date +%s)" >> "$GITHUB_ENV"
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          path: packet
+          persist-credentials: false
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          repository: py-why/EconML
+          ref: 0b45f8343e08ebcdb93ae859643a0efe20c21e7d
+          path: upstream
+          fetch-depth: 1
+          persist-credentials: false
+      - name: One native baseline measurement with real driver fixtures first
+        run: python3 packet/validation/econml686/hosted.py
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
+        if: always()
+        with:
+          name: econml686-m0-${{ github.run_id }}
+          path: ${{ runner.temp }}/econml686-m0-${{ github.run_id }}/evidence
+          if-no-files-found: warn
+          retention-days: 7
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
+        if: always()
+        with:
+          name: econml686-m0-image-${{ github.run_id }}
+          path: ${{ runner.temp }}/econml686-m0-${{ github.run_id }}/image-cache/*.gz
+          compression-level: 0
+          if-no-files-found: warn
+          retention-days: 7

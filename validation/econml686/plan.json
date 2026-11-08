@@ -1,0 +1,17 @@
+{
+  "source": "0b45f8343e08ebcdb93ae859643a0efe20c21e7d",
+  "purpose": "Baseline-only native AMD64 build and full Ray measurement; no contribution patch",
+  "base_image": "python@sha256:dddbf9c143d4d3dff1c68e104645bac612823d33ef09571c71eff41faf07c194",
+  "absolute_seconds": 3000,
+  "network_bytes_cap": 8589934592,
+  "artifact_cap": 67108864,
+  "attempt": "econml686-m0-first",
+  "branch": "validate-econml686-m0-native",
+  "no_retries": true,
+  "execution_enabled": true,
+  "required_full_finish_unchanged": true,
+  "venue_amendment": "GitHub-hosted native AMD64; no access to Mac Docker or external disk; exact review and public-write authority still required.",
+  "authoring_only_until_exact_review": true,
+  "image_archive_compressed_cap": 2147483648,
+  "host_memory_admission": 15032385536
+}
